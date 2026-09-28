@@ -1,0 +1,77 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"title": "Elegante (negro y dorado)",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Fondo",
+					"color": "#FFFFFF"
+				},
+				{
+					"slug": "base-2",
+					"name": "Fondo suave",
+					"color": "#F6F4EF"
+				},
+				{
+					"slug": "contrast",
+					"name": "Texto",
+					"color": "#141414"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Texto secundario",
+					"color": "#5F5B55"
+				},
+				{
+					"slug": "primary",
+					"name": "Principal",
+					"color": "#1A1A1A"
+				},
+				{
+					"slug": "primary-2",
+					"name": "Principal oscuro",
+					"color": "#000000"
+				},
+				{
+					"slug": "primary-soft",
+					"name": "Principal suave",
+					"color": "#EFEBE3"
+				},
+				{
+					"slug": "accent",
+					"name": "Acento",
+					"color": "#B08D57"
+				},
+				{
+					"slug": "border",
+					"name": "Borde",
+					"color": "#E6E1D8"
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var:preset|font-family|serif",
+					"fontWeight": "500",
+					"letterSpacing": "-0.01em"
+				}
+			},
+			"button": {
+				"border": {
+					"radius": "0px"
+				},
+				"typography": {
+					"textTransform": "uppercase",
+					"letterSpacing": "0.12em",
+					"fontSize": "var:preset|font-size|x-small"
+				}
+			}
+		}
+	}
+}

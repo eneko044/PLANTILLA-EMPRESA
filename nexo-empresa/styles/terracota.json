@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"title": "Terracota",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Fondo",
+					"color": "#FFFFFF"
+				},
+				{
+					"slug": "base-2",
+					"name": "Fondo suave",
+					"color": "#FBF6F1"
+				},
+				{
+					"slug": "contrast",
+					"name": "Texto",
+					"color": "#221712"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Texto secundario",
+					"color": "#6B5A50"
+				},
+				{
+					"slug": "primary",
+					"name": "Principal",
+					"color": "#C2410C"
+				},
+				{
+					"slug": "primary-2",
+					"name": "Principal oscuro",
+					"color": "#9A3412"
+				},
+				{
+					"slug": "primary-soft",
+					"name": "Principal suave",
+					"color": "#FDEBDD"
+				},
+				{
+					"slug": "accent",
+					"name": "Acento",
+					"color": "#0E7490"
+				},
+				{
+					"slug": "border",
+					"name": "Borde",
+					"color": "#EEE3DA"
+				}
+			]
+		}
+	}
+}

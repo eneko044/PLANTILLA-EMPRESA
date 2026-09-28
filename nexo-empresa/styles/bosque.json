@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"title": "Bosque",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Fondo",
+					"color": "#FFFFFF"
+				},
+				{
+					"slug": "base-2",
+					"name": "Fondo suave",
+					"color": "#F3F7F2"
+				},
+				{
+					"slug": "contrast",
+					"name": "Texto",
+					"color": "#12201A"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Texto secundario",
+					"color": "#52645A"
+				},
+				{
+					"slug": "primary",
+					"name": "Principal",
+					"color": "#1F7A4D"
+				},
+				{
+					"slug": "primary-2",
+					"name": "Principal oscuro",
+					"color": "#165C3A"
+				},
+				{
+					"slug": "primary-soft",
+					"name": "Principal suave",
+					"color": "#E1F1E6"
+				},
+				{
+					"slug": "accent",
+					"name": "Acento",
+					"color": "#D69E2E"
+				},
+				{
+					"slug": "border",
+					"name": "Borde",
+					"color": "#DFE8E1"
+				}
+			]
+		}
+	}
+}

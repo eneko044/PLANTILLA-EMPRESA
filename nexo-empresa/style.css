@@ -1,0 +1,20 @@
+/*
+Theme Name: Nexo Empresa
+Theme URI: https://github.com/eneko044/plantilla-empresa
+Author: Nexo
+Description: Tema de bloques modular para la web de cualquier empresa. Todo se edita visualmente desde el Editor del sitio de WordPress: 28 secciones prediseñadas (portadas, servicios, precios, equipo, testimonios, preguntas frecuentes, contacto…), páginas completas listas para usar, 6 combinaciones de color, bloque de iconos, animaciones al hacer scroll y controles de visibilidad por dispositivo. Compatible con Elementor y otros maquetadores mediante las plantillas «Ancho completo» y «Lienzo en blanco».
+Requires at least: 6.6
+Tested up to: 7.1
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: nexo-empresa
+Tags: block-patterns, block-styles, full-site-editing, one-column, wide-blocks, custom-colors, custom-logo, custom-menu, editor-style, featured-images, style-variations, template-editing, translation-ready, business, portfolio, blog
+*/
+
+/*
+ * Los estilos del tema viven en theme.json (colores, tipografía, espaciados)
+ * y en assets/css/nexo.css (detalles que theme.json no cubre).
+ * Este archivo solo contiene la cabecera que WordPress necesita.
+ */

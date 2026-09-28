@@ -1,0 +1,71 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"title": "Modo oscuro",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Fondo",
+					"color": "#0B1220"
+				},
+				{
+					"slug": "base-2",
+					"name": "Fondo suave",
+					"color": "#111A2E"
+				},
+				{
+					"slug": "contrast",
+					"name": "Texto",
+					"color": "#EEF2FA"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Texto secundario",
+					"color": "#A3AEC4"
+				},
+				{
+					"slug": "primary",
+					"name": "Principal",
+					"color": "#7C9BFF"
+				},
+				{
+					"slug": "primary-2",
+					"name": "Principal oscuro",
+					"color": "#A9BCFF"
+				},
+				{
+					"slug": "primary-soft",
+					"name": "Principal suave",
+					"color": "#1C2A4D"
+				},
+				{
+					"slug": "accent",
+					"name": "Acento",
+					"color": "#FF8A5B"
+				},
+				{
+					"slug": "border",
+					"name": "Borde",
+					"color": "#233152"
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"button": {
+				"color": {
+					"text": "var:preset|color|base"
+				},
+				":hover": {
+					"color": {
+						"text": "var:preset|color|base"
+					}
+				}
+			}
+		},
+		"css": ".wp-block-image.is-style-logo img{filter:grayscale(1) invert(1);opacity:.7}.wp-block-image.is-style-logo img:hover{filter:invert(1);opacity:1}"
+	}
+}

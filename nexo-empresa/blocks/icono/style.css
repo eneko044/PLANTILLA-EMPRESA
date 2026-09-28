@@ -1,0 +1,42 @@
+.wp-block-nexo-icono {
+	--nexo-icono-tamano: 26px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: content-box;
+	width: var(--nexo-icono-tamano);
+	height: var(--nexo-icono-tamano);
+	padding: calc(var(--nexo-icono-tamano) * 0.55);
+	color: var(--wp--preset--color--primary);
+	background-color: var(--wp--preset--color--primary-soft);
+	border-radius: var(--wp--custom--radius--medium, 14px);
+	line-height: 0;
+}
+.wp-block-nexo-icono svg {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+.wp-block-nexo-icono.nexo-forma-circulo {
+	border-radius: 999px;
+}
+.wp-block-nexo-icono.nexo-forma-ninguna {
+	padding: 0;
+	border-radius: 0;
+}
+.wp-block-nexo-icono.nexo-forma-ninguna:not(.has-background) {
+	background: none;
+}
+/* Alineación: gana a los márgenes automáticos del diseño «restringido». */
+.wp-block-nexo-icono.nexo-alinear-left {
+	margin-left: 0 !important;
+	margin-right: auto !important;
+}
+.wp-block-nexo-icono.nexo-alinear-center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+.wp-block-nexo-icono.nexo-alinear-right {
+	margin-left: auto !important;
+	margin-right: 0 !important;
+}

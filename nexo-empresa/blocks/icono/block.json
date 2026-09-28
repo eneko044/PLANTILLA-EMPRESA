@@ -1,0 +1,40 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo/icono",
+	"title": "Icono",
+	"category": "design",
+	"icon": "star-filled",
+	"description": "Icono vectorial con forma de fondo, tamaño y colores editables.",
+	"keywords": [ "icono", "icon", "símbolo", "svg" ],
+	"textdomain": "nexo-empresa",
+	"attributes": {
+		"icono": { "type": "string", "default": "sparkles" },
+		"tamano": { "type": "number", "default": 26 },
+		"forma": { "type": "string", "default": "cuadrado", "enum": [ "cuadrado", "circulo", "ninguna" ] },
+		"alineacion": { "type": "string", "default": "left", "enum": [ "left", "center", "right" ] }
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"color": {
+			"text": true,
+			"background": true,
+			"gradients": true
+		},
+		"spacing": {
+			"margin": [ "top", "bottom" ],
+			"padding": true
+		},
+		"__experimentalBorder": {
+			"radius": true,
+			"color": true,
+			"width": true,
+			"style": true
+		},
+		"shadow": true
+	},
+	"editorScript": "file:./index.js",
+	"style": "file:./style.css",
+	"render": "file:./render.php"
+}
