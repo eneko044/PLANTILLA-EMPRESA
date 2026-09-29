@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/destacados",
+	"title": "Destacados y recomendados",
+	"category": "nexo-play",
+	"icon": "slides",
+	"description": "Carrusel grande con los juegos marcados como destacados.",
+	"textdomain": "nexo-play",
+	"attributes": {
+		"titulo": {
+			"type": "string",
+			"default": "Destacados y recomendados"
+		},
+		"cantidad": {
+			"type": "number",
+			"default": 8
+		}
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php"
+}

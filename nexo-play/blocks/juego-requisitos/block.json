@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/juego-requisitos",
+	"title": "Ficha: requisitos del sistema",
+	"category": "nexo-play",
+	"icon": "desktop",
+	"description": "Requisitos mínimos y recomendados.",
+	"textdomain": "nexo-play",
+	"attributes": {},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php",
+	"usesContext": [
+		"postId",
+		"postType"
+	]
+}

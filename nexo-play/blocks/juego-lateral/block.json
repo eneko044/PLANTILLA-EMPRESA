@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/juego-lateral",
+	"title": "Ficha: detalles",
+	"category": "nexo-play",
+	"icon": "list-view",
+	"description": "Formas de jugar, género, desarrollador y enlaces.",
+	"textdomain": "nexo-play",
+	"attributes": {},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php",
+	"usesContext": [
+		"postId",
+		"postType"
+	]
+}

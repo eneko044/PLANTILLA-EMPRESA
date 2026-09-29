@@ -1,0 +1,554 @@
+{
+ "juegos": [
+  {
+   "slug": "reinos-de-ceniza",
+   "titulo": "Reinos de Ceniza",
+   "corta": "Reclama el trono de un reino consumido por el fuego en un vasto mundo abierto lleno de dragones, alianzas y traiciones.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Reclama el trono de un reino consumido por el fuego en un vasto mundo abierto lleno de dragones, alianzas y traiciones.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Reinos de Ceniza</strong> es lo nuevo de Forja Carmesí: un juego de rol, aventura, mundo abierto pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Un mundo vivo:</strong> ciudades, facciones y personajes que reaccionan a tus decisiones.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Combate profundo:</strong> combina armas, magia y habilidades a tu estilo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Historia ramificada:</strong> más de 40 horas de campaña con varios finales.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Un mapa enorme</strong> sin pantallas de carga.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Rol",
+    "Aventura",
+    "Mundo abierto"
+   ],
+   "etiquetas": [
+    "Fantasía",
+    "Rol de acción",
+    "Buena trama",
+    "Mundo abierto"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 49.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2026-10-24",
+   "desarrollador": "Forja Carmesí",
+   "editor": "Nexo Publishing",
+   "valoracion": "",
+   "resenas": 0,
+   "ventas": 950,
+   "destacado": true,
+   "plataformas": "windows,mac,linux",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i5-8400 o AMD Ryzen 5 2600\nMemoria: 12 GB de RAM\nGráficos: GeForce GTX 1060 6 GB o Radeon RX 580\nAlmacenamiento: 60 GB de espacio disponible (SSD)",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i7-12700 o AMD Ryzen 7 5800X\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 3070 o Radeon RX 6800\nAlmacenamiento: 60 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "aurora-boreal",
+   "titulo": "Aurora Boreal",
+   "corta": "Sobrevive al invierno ártico, sigue las luces del cielo y descubre qué se esconde más allá de la frontera helada.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Sobrevive al invierno ártico, sigue las luces del cielo y descubre qué se esconde más allá de la frontera helada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Aurora Boreal</strong> es lo nuevo de Estudio Polar: un juego de aventura, supervivencia, indie pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Exploración libre:</strong> descubre secretos en cada rincón del mapa.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Narrativa cuidada:</strong> una historia que engancha de principio a fin.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Banda sonora original</strong> compuesta para cada escenario.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Hecho por un estudio independiente</strong> con mucho cariño.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Aventura",
+    "Supervivencia",
+    "Indie"
+   ],
+   "etiquetas": [
+    "Exploración",
+    "Atmosférico",
+    "Supervivencia",
+    "Nieve"
+   ],
+   "modos": [
+    "Un jugador",
+    "Cooperativo"
+   ],
+   "precio": 24.99,
+   "descuento": 40,
+   "oferta": "OFERTA DE HOY",
+   "fecha": "2025-11-12",
+   "desarrollador": "Estudio Polar",
+   "editor": "Estudio Polar",
+   "valoracion": "Extremadamente positivas",
+   "resenas": 18450,
+   "ventas": 870,
+   "destacado": true,
+   "plataformas": "windows",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "neon-nocturno",
+   "titulo": "Neón Nocturno",
+   "corta": "Domina las calles de una ciudad que nunca duerme: tuning, persecuciones y carreras clandestinas a ritmo de synthwave.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Domina las calles de una ciudad que nunca duerme: tuning, persecuciones y carreras clandestinas a ritmo de synthwave.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Neón Nocturno</strong> es lo nuevo de Velocity Lab: un juego de carreras, acción, deportes pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Más de 80 vehículos</strong> personalizables pieza a pieza.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Modo carrera y multijugador</strong> con clasificaciones semanales.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Física realista</strong> y ciclo de día y noche.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Competiciones oficiales</strong> y torneos en línea.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Carreras",
+    "Acción",
+    "Deportes"
+   ],
+   "etiquetas": [
+    "Conducción",
+    "Música",
+    "Ciudad",
+    "Multijugador"
+   ],
+   "modos": [
+    "Un jugador",
+    "Multijugador en línea",
+    "JcJ"
+   ],
+   "precio": 39.99,
+   "descuento": 50,
+   "oferta": "OFERTA DE ENTRE SEMANA",
+   "fecha": "2025-03-20",
+   "desarrollador": "Velocity Lab",
+   "editor": "Nexo Publishing",
+   "valoracion": "Muy positivas",
+   "resenas": 9320,
+   "ventas": 990,
+   "destacado": true,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i5-8400 o AMD Ryzen 5 2600\nMemoria: 12 GB de RAM\nGráficos: GeForce GTX 1060 6 GB o Radeon RX 580\nAlmacenamiento: 60 GB de espacio disponible (SSD)",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i7-12700 o AMD Ryzen 7 5800X\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 3070 o Radeon RX 6800\nAlmacenamiento: 60 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "cumbre-salvaje",
+   "titulo": "Cumbre Salvaje",
+   "corta": "Planifica la ruta, gestiona el oxígeno y alcanza la cima de las montañas más peligrosas del mundo.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Planifica la ruta, gestiona el oxígeno y alcanza la cima de las montañas más peligrosas del mundo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Cumbre Salvaje</strong> es lo nuevo de Altitud Games: un juego de supervivencia, aventura, simulación pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Gestiona recursos:</strong> comida, calor, energía y equipo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Clima dinámico</strong> que cambia tu forma de jugar.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Construye tu refugio</strong> y mejóralo con lo que encuentres.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Modo libre sin límites</strong> para crear a tu ritmo.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Supervivencia",
+    "Aventura",
+    "Simulación"
+   ],
+   "etiquetas": [
+    "Escalada",
+    "Realista",
+    "Montaña",
+    "Cooperativo"
+   ],
+   "modos": [
+    "Un jugador",
+    "Cooperativo"
+   ],
+   "precio": 19.99,
+   "descuento": 25,
+   "oferta": "",
+   "fecha": "2024-06-05",
+   "desarrollador": "Altitud Games",
+   "editor": "Altitud Games",
+   "valoracion": "Muy positivas",
+   "resenas": 6210,
+   "ventas": 640,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "pabellon-9",
+   "titulo": "Pabellón 9",
+   "corta": "Un hospital abandonado, una linterna con poca batería y algo que te sigue por los pasillos. ¿Llegarás al amanecer?",
+   "contenido": "<!-- wp:paragraph -->\n<p>Un hospital abandonado, una linterna con poca batería y algo que te sigue por los pasillos. ¿Llegarás al amanecer?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Pabellón 9</strong> es lo nuevo de Sótano Studio: un juego de terror, aventura, indie pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Atmósfera opresiva</strong> con audio binaural: juega con auriculares.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Puzles integrados</strong> en la exploración.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Cada partida es distinta:</strong> los sustos cambian de sitio.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Hecho por un estudio independiente</strong> con mucho cariño.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Terror",
+    "Aventura",
+    "Indie"
+   ],
+   "etiquetas": [
+    "Terror psicológico",
+    "Atmosférico",
+    "Oscuro",
+    "Buena trama"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 14.99,
+   "descuento": 60,
+   "oferta": "OFERTA DE HOY",
+   "fecha": "2024-10-31",
+   "desarrollador": "Sótano Studio",
+   "editor": "Sótano Studio",
+   "valoracion": "Muy positivas",
+   "resenas": 12800,
+   "ventas": 720,
+   "destacado": true,
+   "plataformas": "windows,linux",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "bosque-susurrante",
+   "titulo": "Bosque Susurrante",
+   "corta": "Pasea por un bosque encantado, habla con sus criaturas y descubre los secretos que guardan los árboles más antiguos.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Pasea por un bosque encantado, habla con sus criaturas y descubre los secretos que guardan los árboles más antiguos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Bosque Susurrante</strong> es lo nuevo de Musgo Interactive: un juego de aventura, indie, casual pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Exploración libre:</strong> descubre secretos en cada rincón del mapa.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Narrativa cuidada:</strong> una historia que engancha de principio a fin.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Banda sonora original</strong> compuesta para cada escenario.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Partidas cortas</strong> ideales para desconectar.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Aventura",
+    "Indie",
+    "Casual"
+   ],
+   "etiquetas": [
+    "Relajante",
+    "Bonito",
+    "Exploración",
+    "Narrativa"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 12.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2025-04-17",
+   "desarrollador": "Musgo Interactive",
+   "editor": "Musgo Interactive",
+   "valoracion": "Extremadamente positivas",
+   "resenas": 4300,
+   "ventas": 410,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "pixel-pioneros",
+   "titulo": "Pixel Pioneros",
+   "corta": "Plataformas retro de precisión con más de 120 niveles, jefes enormes y un modo cooperativo local para dos jugadores.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Plataformas retro de precisión con más de 120 niveles, jefes enormes y un modo cooperativo local para dos jugadores.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Pixel Pioneros</strong> es lo nuevo de 8 Bits Club: un juego de acción, indie, casual pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Combate rápido y exigente</strong> con controles precisos.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Jefes enormes</strong> con patrones que tendrás que aprender.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Rejugable:</strong> desafíos, logros y modos extra.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Partidas cortas</strong> ideales para desconectar.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Acción",
+    "Indie",
+    "Casual"
+   ],
+   "etiquetas": [
+    "Plataformas",
+    "Pixel art",
+    "Retro",
+    "Difícil"
+   ],
+   "modos": [
+    "Un jugador",
+    "Pantalla compartida"
+   ],
+   "precio": 9.99,
+   "descuento": 30,
+   "oferta": "",
+   "fecha": "2025-08-02",
+   "desarrollador": "8 Bits Club",
+   "editor": "8 Bits Club",
+   "valoracion": "Muy positivas",
+   "resenas": 2890,
+   "ventas": 520,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "abismo-azul",
+   "titulo": "Abismo Azul",
+   "corta": "Construye tu base en el fondo del océano de un planeta desconocido y sobrevive a sus criaturas abisales.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Construye tu base en el fondo del océano de un planeta desconocido y sobrevive a sus criaturas abisales.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Abismo Azul</strong> es lo nuevo de Marea Studio: un juego de aventura, supervivencia, mundo abierto pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Exploración libre:</strong> descubre secretos en cada rincón del mapa.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Narrativa cuidada:</strong> una historia que engancha de principio a fin.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Banda sonora original</strong> compuesta para cada escenario.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Un mapa enorme</strong> sin pantallas de carga.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Aventura",
+    "Supervivencia",
+    "Mundo abierto"
+   ],
+   "etiquetas": [
+    "Submarino",
+    "Exploración",
+    "Construcción",
+    "Ciencia ficción"
+   ],
+   "modos": [
+    "Un jugador",
+    "Cooperativo"
+   ],
+   "precio": 29.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2026-11-14",
+   "desarrollador": "Marea Studio",
+   "editor": "Nexo Publishing",
+   "valoracion": "",
+   "resenas": 0,
+   "ventas": 600,
+   "destacado": true,
+   "plataformas": "windows",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "dunas-de-kharim",
+   "titulo": "Dunas de Kharim",
+   "corta": "Levanta una civilización en mitad del desierto: comercia, negocia y conquista las rutas de las caravanas.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Levanta una civilización en mitad del desierto: comercia, negocia y conquista las rutas de las caravanas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Dunas de Kharim</strong> es lo nuevo de Oasis Games: un juego de estrategia, simulación pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Gestiona tu economía</strong>, diplomacia y ejército.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Mapas generados</strong> para que ninguna partida se repita.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Multijugador de hasta 8 jugadores</strong> y campaña individual.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Modo libre sin límites</strong> para crear a tu ritmo.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Estrategia",
+    "Simulación"
+   ],
+   "etiquetas": [
+    "Construcción de imperios",
+    "Gestión",
+    "Histórico",
+    "4X"
+   ],
+   "modos": [
+    "Un jugador",
+    "Multijugador en línea"
+   ],
+   "precio": 34.99,
+   "descuento": 35,
+   "oferta": "OFERTA DE ENTRE SEMANA",
+   "fecha": "2025-02-11",
+   "desarrollador": "Oasis Games",
+   "editor": "Oasis Games",
+   "valoracion": "Mayormente positivas",
+   "resenas": 7640,
+   "ventas": 680,
+   "destacado": false,
+   "plataformas": "windows,mac,linux",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i5-8400 o AMD Ryzen 5 2600\nMemoria: 12 GB de RAM\nGráficos: GeForce GTX 1060 6 GB o Radeon RX 580\nAlmacenamiento: 60 GB de espacio disponible (SSD)",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i7-12700 o AMD Ryzen 7 5800X\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 3070 o Radeon RX 6800\nAlmacenamiento: 60 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "tormenta-de-acero",
+   "titulo": "Tormenta de Acero",
+   "corta": "Shooter táctico gratuito por equipos de 5 contra 5 con mapas destructibles y temporadas nuevas cada tres meses.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Shooter táctico gratuito por equipos de 5 contra 5 con mapas destructibles y temporadas nuevas cada tres meses.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Tormenta de Acero</strong> es lo nuevo de Ironclad: un juego de acción, gratuitos pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Combate rápido y exigente</strong> con controles precisos.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Jefes enormes</strong> con patrones que tendrás que aprender.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Rejugable:</strong> desafíos, logros y modos extra.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Gratis para siempre:</strong> todo lo que afecta al juego se consigue jugando.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Acción",
+    "Gratuitos"
+   ],
+   "etiquetas": [
+    "Disparos",
+    "Multijugador",
+    "Tácticos",
+    "Por equipos"
+   ],
+   "modos": [
+    "Multijugador en línea",
+    "JcJ",
+    "Cooperativo"
+   ],
+   "precio": 0,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2024-09-10",
+   "desarrollador": "Ironclad",
+   "editor": "Ironclad",
+   "valoracion": "Mayormente positivas",
+   "resenas": 58200,
+   "ventas": 1000,
+   "destacado": true,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "isla-tranquila",
+   "titulo": "Isla Tranquila",
+   "corta": "Cultiva tu huerto, pesca al atardecer y haz amigos en una pequeña isla donde nadie tiene prisa.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Cultiva tu huerto, pesca al atardecer y haz amigos en una pequeña isla donde nadie tiene prisa.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Isla Tranquila</strong> es lo nuevo de Brisa Games: un juego de simulación, casual pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Modo libre sin límites</strong> para crear a tu ritmo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Cientos de objetos y mejoras</strong> que desbloquear.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Compatible con mods</strong> creados por la comunidad.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Partidas cortas</strong> ideales para desconectar.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Simulación",
+    "Casual"
+   ],
+   "etiquetas": [
+    "Relajante",
+    "Granjas",
+    "Bonito",
+    "Vida"
+   ],
+   "modos": [
+    "Un jugador",
+    "Cooperativo"
+   ],
+   "precio": 17.99,
+   "descuento": 20,
+   "oferta": "",
+   "fecha": "2025-06-21",
+   "desarrollador": "Brisa Games",
+   "editor": "Brisa Games",
+   "valoracion": "Extremadamente positivas",
+   "resenas": 15700,
+   "ventas": 800,
+   "destacado": false,
+   "plataformas": "windows",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "metropolis-2099",
+   "titulo": "Metrópolis 2099",
+   "corta": "Diseña la ciudad del futuro: rascacielos, transporte autónomo y ciudadanos con opiniones muy claras.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Diseña la ciudad del futuro: rascacielos, transporte autónomo y ciudadanos con opiniones muy claras.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Metrópolis 2099</strong> es lo nuevo de Grid Works: un juego de estrategia, simulación pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Gestiona tu economía</strong>, diplomacia y ejército.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Mapas generados</strong> para que ninguna partida se repita.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Multijugador de hasta 8 jugadores</strong> y campaña individual.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Modo libre sin límites</strong> para crear a tu ritmo.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Estrategia",
+    "Simulación"
+   ],
+   "etiquetas": [
+    "Construcción de ciudades",
+    "Ciberpunk",
+    "Gestión",
+    "Futurista"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 29.99,
+   "descuento": 15,
+   "oferta": "",
+   "fecha": "2026-09-18",
+   "desarrollador": "Grid Works",
+   "editor": "Nexo Publishing",
+   "valoracion": "Muy positivas",
+   "resenas": 2100,
+   "ventas": 760,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "expreso-fantasma",
+   "titulo": "Expreso Fantasma",
+   "corta": "Despiertas en un tren que no aparece en ningún horario. Resuelve sus acertijos antes de llegar a la última estación.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Despiertas en un tren que no aparece en ningún horario. Resuelve sus acertijos antes de llegar a la última estación.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Expreso Fantasma</strong> es lo nuevo de Sótano Studio: un juego de terror, puzles pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Atmósfera opresiva</strong> con audio binaural: juega con auriculares.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Puzles integrados</strong> en la exploración.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Cada partida es distinta:</strong> los sustos cambian de sitio.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Más de 200 rompecabezas</strong> que cambian las reglas poco a poco.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Terror",
+    "Puzles"
+   ],
+   "etiquetas": [
+    "Misterio",
+    "Terror",
+    "Escape room",
+    "Cooperativo"
+   ],
+   "modos": [
+    "Un jugador",
+    "Cooperativo"
+   ],
+   "precio": 11.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2026-09-25",
+   "desarrollador": "Sótano Studio",
+   "editor": "Sótano Studio",
+   "valoracion": "Muy positivas",
+   "resenas": 640,
+   "ventas": 450,
+   "destacado": false,
+   "plataformas": "windows,mac,linux",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "el-cartografo",
+   "titulo": "El Cartógrafo",
+   "corta": "Reordena las piezas del mapa para cambiar el mundo y guiar a tu cartógrafo a través de cientos de rompecabezas.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Reordena las piezas del mapa para cambiar el mundo y guiar a tu cartógrafo a través de cientos de rompecabezas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>El Cartógrafo</strong> es lo nuevo de Tinta y Brújula: un juego de puzles, indie, casual pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Más de 200 rompecabezas</strong> que cambian las reglas poco a poco.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Sin prisas:</strong> juega a tu ritmo, sin temporizadores.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Pistas opcionales</strong> para no quedarte nunca atascado.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Partidas cortas</strong> ideales para desconectar.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Puzles",
+    "Indie",
+    "Casual"
+   ],
+   "etiquetas": [
+    "Puzles",
+    "Relajante",
+    "Mapas",
+    "Bonito"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 7.99,
+   "descuento": 50,
+   "oferta": "OFERTA DE HOY",
+   "fecha": "2024-03-14",
+   "desarrollador": "Tinta y Brújula",
+   "editor": "Tinta y Brújula",
+   "valoracion": "Extremadamente positivas",
+   "resenas": 8900,
+   "ventas": 560,
+   "destacado": false,
+   "plataformas": "windows",
+   "requisitos_min": "SO: Windows 10\nProcesador: Intel Core 2 Duo a 2,4 GHz\nMemoria: 4 GB de RAM\nGráficos: Intel HD 4000\nAlmacenamiento: 2 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 10 o 11\nProcesador: Intel Core i5\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 750\nAlmacenamiento: 2 GB de espacio disponible"
+  },
+  {
+   "slug": "ruta-salvaje",
+   "titulo": "Ruta Salvaje",
+   "corta": "Restaura coches clásicos y recorre miles de kilómetros de carreteras abiertas en un viaje de costa a costa.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Restaura coches clásicos y recorre miles de kilómetros de carreteras abiertas en un viaje de costa a costa.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Ruta Salvaje</strong> es lo nuevo de Asfalto Studio: un juego de carreras, simulación, mundo abierto pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Más de 80 vehículos</strong> personalizables pieza a pieza.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Modo carrera y multijugador</strong> con clasificaciones semanales.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Física realista</strong> y ciclo de día y noche.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Un mapa enorme</strong> sin pantallas de carga.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Carreras",
+    "Simulación",
+    "Mundo abierto"
+   ],
+   "etiquetas": [
+    "Conducción",
+    "Coches clásicos",
+    "Mundo abierto",
+    "Relajante"
+   ],
+   "modos": [
+    "Un jugador",
+    "Multijugador en línea"
+   ],
+   "precio": 24.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2026-09-26",
+   "desarrollador": "Asfalto Studio",
+   "editor": "Nexo Publishing",
+   "valoracion": "Variadas",
+   "resenas": 320,
+   "ventas": 500,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  },
+  {
+   "slug": "furia-del-volcan",
+   "titulo": "Furia del Volcán",
+   "corta": "Abre camino a espadazos por el interior de un volcán vivo en este roguelike de acción con dioses furiosos.",
+   "contenido": "<!-- wp:paragraph -->\n<p>Abre camino a espadazos por el interior de un volcán vivo en este roguelike de acción con dioses furiosos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Furia del Volcán</strong> es lo nuevo de Magma Games: un juego de acción, aventura pensado para que cada partida cuente. Explora, experimenta y crea tu propia historia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Características principales</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Combate rápido y exigente</strong> con controles precisos.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Jefes enormes</strong> con patrones que tendrás que aprender.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Rejugable:</strong> desafíos, logros y modos extra.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Exploración libre:</strong> descubre secretos en cada rincón del mapa.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Este juego es ficticio y forma parte del contenido de ejemplo del tema Nexo Play. Sustitúyelo por tus propios productos desde «Juegos» en el escritorio de WordPress.</p>\n<!-- /wp:paragraph -->",
+   "generos": [
+    "Acción",
+    "Aventura"
+   ],
+   "etiquetas": [
+    "Hack and slash",
+    "Roguelike",
+    "Difícil",
+    "Mitología"
+   ],
+   "modos": [
+    "Un jugador"
+   ],
+   "precio": 19.99,
+   "descuento": 0,
+   "oferta": "",
+   "fecha": "2027-02-05",
+   "desarrollador": "Magma Games",
+   "editor": "Magma Games",
+   "valoracion": "",
+   "resenas": 0,
+   "ventas": 580,
+   "destacado": false,
+   "plataformas": "windows,mac",
+   "requisitos_min": "SO: Windows 10 de 64 bits\nProcesador: Intel Core i3-6100 o AMD Ryzen 3 1200\nMemoria: 8 GB de RAM\nGráficos: GeForce GTX 960 o Radeon RX 460\nAlmacenamiento: 20 GB de espacio disponible",
+   "requisitos_rec": "SO: Windows 11 de 64 bits\nProcesador: Intel Core i5-10400 o AMD Ryzen 5 3600\nMemoria: 16 GB de RAM\nGráficos: GeForce RTX 2060 o Radeon RX 5700\nAlmacenamiento: 20 GB de espacio disponible (SSD)"
+  }
+ ],
+ "colores": {
+  "Acción": "#8e1b25",
+  "Aventura": "#8a4b12",
+  "Rol": "#6b1b7a",
+  "Estrategia": "#1d4f8a",
+  "Simulación": "#1b6b7a",
+  "Carreras": "#7a1b4f",
+  "Terror": "#3f1010",
+  "Casual": "#2f7a1d",
+  "Indie": "#6b6b1b",
+  "Puzles": "#3a1d8a",
+  "Supervivencia": "#1b4a3a",
+  "Mundo abierto": "#4a6b1b",
+  "Deportes": "#1b7a4b",
+  "Gratuitos": "#8a6b12"
+ }
+}

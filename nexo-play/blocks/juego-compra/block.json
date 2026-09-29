@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/juego-compra",
+	"title": "Ficha: comprar",
+	"category": "nexo-play",
+	"icon": "cart",
+	"description": "Caja de compra con precio, descuento y botón.",
+	"textdomain": "nexo-play",
+	"attributes": {},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php",
+	"usesContext": [
+		"postId",
+		"postType"
+	]
+}

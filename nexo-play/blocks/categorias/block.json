@@ -1,0 +1,32 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/categorias",
+	"title": "Explorar por categoría",
+	"category": "nexo-play",
+	"icon": "category",
+	"description": "Mosaicos de colores con los géneros.",
+	"textdomain": "nexo-play",
+	"attributes": {
+		"titulo": {
+			"type": "string",
+			"default": "Explorar por categoría"
+		}
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php"
+}

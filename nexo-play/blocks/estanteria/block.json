@@ -1,0 +1,64 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/estanteria",
+	"title": "Estantería de juegos",
+	"category": "nexo-play",
+	"icon": "grid-view",
+	"description": "Fila o panel de juegos filtrados por popularidad, novedades, ofertas, género o precio.",
+	"textdomain": "nexo-play",
+	"attributes": {
+		"titulo": {
+			"type": "string",
+			"default": "Lo más vendido"
+		},
+		"subtitulo": {
+			"type": "string",
+			"default": ""
+		},
+		"diseno": {
+			"type": "string",
+			"default": "carrusel"
+		},
+		"criterio": {
+			"type": "string",
+			"default": "ventas"
+		},
+		"genero": {
+			"type": "string",
+			"default": ""
+		},
+		"mismoGenero": {
+			"type": "boolean",
+			"default": false
+		},
+		"precioMax": {
+			"type": "string",
+			"default": ""
+		},
+		"cantidad": {
+			"type": "number",
+			"default": 8
+		}
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php",
+	"usesContext": [
+		"postId",
+		"postType"
+	]
+}

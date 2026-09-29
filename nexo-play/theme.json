@@ -1,0 +1,166 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": true,
+		"useRootPaddingAwareAlignments": true,
+		"layout": {
+			"contentSize": "1200px",
+			"wideSize": "1400px"
+		},
+		"color": {
+			"defaultPalette": false,
+			"defaultGradients": false,
+			"defaultDuotone": false,
+			"palette": [
+				{ "slug": "fondo", "name": "Fondo", "color": "#1B2838" },
+				{ "slug": "fondo-oscuro", "name": "Fondo oscuro (cabecera y pie)", "color": "#171D25" },
+				{ "slug": "panel", "name": "Panel", "color": "#16202D" },
+				{ "slug": "panel-claro", "name": "Panel claro", "color": "#2A3F55" },
+				{ "slug": "texto", "name": "Texto", "color": "#C7D5E0" },
+				{ "slug": "blanco", "name": "Blanco", "color": "#FFFFFF" },
+				{ "slug": "texto-suave", "name": "Texto suave", "color": "#8F98A0" },
+				{ "slug": "acento", "name": "Acento (azul)", "color": "#1A9FFF" },
+				{ "slug": "acento-claro", "name": "Acento claro", "color": "#66C0F4" },
+				{ "slug": "descuento", "name": "Descuento", "color": "#A4D007" },
+				{ "slug": "comprar", "name": "Botón comprar", "color": "#6FA720" },
+				{ "slug": "borde", "name": "Borde", "color": "#2A3F5A" }
+			],
+			"gradients": [
+				{ "slug": "tienda", "name": "Fondo de la tienda", "gradient": "linear-gradient(180deg, #1B2838 0%, #0F1922 100%)" },
+				{ "slug": "barra", "name": "Barra de la tienda", "gradient": "linear-gradient(90deg, rgba(62,126,167,0.8) 11%, rgba(57,114,161,0.8) 25%, rgba(10,33,56,0.8) 100%)" },
+				{ "slug": "descubrir", "name": "Banner morado", "gradient": "linear-gradient(90deg, #6D3E9C 0%, #384B72 45%, #1E4F73 100%)" },
+				{ "slug": "comprar", "name": "Botón comprar", "gradient": "linear-gradient(to right, #75B022 5%, #588A1B 95%)" },
+				{ "slug": "azul", "name": "Botón azul", "gradient": "linear-gradient(90deg, #06BFFF 0%, #2D73FF 100%)" }
+			]
+		},
+		"spacing": {
+			"units": [ "px", "em", "rem", "%", "vh", "vw" ],
+			"defaultSpacingSizes": false,
+			"spacingSizes": [
+				{ "slug": "10", "name": "1", "size": "0.5rem" },
+				{ "slug": "20", "name": "2", "size": "0.75rem" },
+				{ "slug": "30", "name": "3", "size": "1.25rem" },
+				{ "slug": "40", "name": "4", "size": "clamp(1.25rem, 1rem + 1vw, 2rem)" },
+				{ "slug": "50", "name": "5", "size": "clamp(2rem, 1.5rem + 2vw, 3rem)" },
+				{ "slug": "60", "name": "6", "size": "clamp(2.5rem, 2rem + 3vw, 4.5rem)" },
+				{ "slug": "70", "name": "7", "size": "clamp(3.5rem, 2.5rem + 5vw, 7rem)" }
+			]
+		},
+		"typography": {
+			"defaultFontSizes": false,
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"slug": "body",
+					"name": "Inter",
+					"fontFamily": "\"Inter\", \"Motiva Sans\", Arial, Helvetica, sans-serif",
+					"fontFace": [
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "normal",
+							"fontWeight": "100 900",
+							"fontDisplay": "swap",
+							"src": [ "file:./assets/fonts/inter-variable.woff2" ]
+						}
+					]
+				},
+				{
+					"slug": "system",
+					"name": "Sistema",
+					"fontFamily": "Arial, Helvetica, sans-serif"
+				}
+			],
+			"fontSizes": [
+				{ "slug": "x-small", "name": "Muy pequeño", "size": "0.75rem", "fluid": false },
+				{ "slug": "small", "name": "Pequeño", "size": "0.8125rem", "fluid": false },
+				{ "slug": "medium", "name": "Normal", "size": "0.9375rem", "fluid": false },
+				{ "slug": "large", "name": "Grande", "size": "1.25rem", "fluid": false },
+				{ "slug": "x-large", "name": "Muy grande", "size": "1.75rem", "fluid": { "min": "1.4rem", "max": "1.875rem" } },
+				{ "slug": "xx-large", "name": "Titular", "size": "2.5rem", "fluid": { "min": "1.9rem", "max": "2.75rem" } },
+				{ "slug": "display", "name": "Portada", "size": "3.5rem", "fluid": { "min": "2.4rem", "max": "4rem" } }
+			]
+		},
+		"custom": {
+			"radius": "3px"
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "var:preset|color|fondo",
+			"text": "var:preset|color|texto"
+		},
+		"typography": {
+			"fontFamily": "var:preset|font-family|body",
+			"fontSize": "var:preset|font-size|medium",
+			"lineHeight": "1.5"
+		},
+		"spacing": {
+			"blockGap": "1rem",
+			"padding": {
+				"top": "0px",
+				"right": "var:preset|spacing|30",
+				"bottom": "0px",
+				"left": "var:preset|spacing|30"
+			}
+		},
+		"elements": {
+			"heading": {
+				"color": { "text": "var:preset|color|blanco" },
+				"typography": { "fontWeight": "600", "lineHeight": "1.2", "letterSpacing": "0" }
+			},
+			"h1": { "typography": { "fontSize": "var:preset|font-size|x-large", "fontWeight": "400" } },
+			"h2": { "typography": { "fontSize": "var:preset|font-size|large" } },
+			"h3": { "typography": { "fontSize": "var:preset|font-size|medium" } },
+			"link": {
+				"color": { "text": "var:preset|color|acento-claro" },
+				"typography": { "textDecoration": "none" },
+				":hover": { "color": { "text": "var:preset|color|blanco" } }
+			},
+			"button": {
+				"color": { "gradient": "var:preset|gradient|azul", "text": "var:preset|color|blanco" },
+				"border": { "radius": "2px", "width": "0" },
+				"spacing": { "padding": { "top": "0.55em", "right": "1.1em", "bottom": "0.55em", "left": "1.1em" } },
+				"typography": { "fontSize": "var:preset|font-size|medium", "fontWeight": "400", "lineHeight": "1.3" },
+				":hover": { "color": { "gradient": "linear-gradient(90deg, #06BFFF 30%, #2D73FF 100%)", "text": "var:preset|color|blanco" } }
+			},
+			"caption": {
+				"color": { "text": "var:preset|color|texto-suave" },
+				"typography": { "fontSize": "var:preset|font-size|x-small" }
+			}
+		},
+		"blocks": {
+			"core/navigation": {
+				"typography": { "fontSize": "var:preset|font-size|medium" }
+			},
+			"core/site-title": {
+				"typography": { "fontSize": "1.5rem", "fontWeight": "700", "textTransform": "uppercase", "letterSpacing": "0.12em" },
+				"color": { "text": "var:preset|color|blanco" },
+				"elements": { "link": { "color": { "text": "inherit" } } }
+			},
+			"core/separator": {
+				"color": { "text": "var:preset|color|borde" }
+			},
+			"core/post-title": {
+				"elements": { "link": { "color": { "text": "inherit" } } }
+			},
+			"core/post-date": {
+				"color": { "text": "var:preset|color|texto-suave" },
+				"typography": { "fontSize": "var:preset|font-size|x-small" }
+			},
+			"core/quote": {
+				"border": { "width": "0 0 0 3px", "color": "var:preset|color|acento", "style": "solid" },
+				"spacing": { "padding": { "left": "var:preset|spacing|30" } }
+			}
+		}
+	},
+	"customTemplates": [
+		{ "name": "pagina-tienda", "title": "Página de tienda (sin título)", "postTypes": [ "page" ] },
+		{ "name": "pagina-ancho-completo", "title": "Ancho completo (Elementor y maquetadores)", "postTypes": [ "page", "post", "juego" ] },
+		{ "name": "lienzo-en-blanco", "title": "Lienzo en blanco (sin cabecera ni pie)", "postTypes": [ "page", "post" ] }
+	],
+	"templateParts": [
+		{ "name": "header", "title": "Cabecera", "area": "header" },
+		{ "name": "footer", "title": "Pie de página", "area": "footer" }
+	]
+}

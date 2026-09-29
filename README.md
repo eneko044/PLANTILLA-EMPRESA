@@ -1,4 +1,71 @@
-# Nexo Empresa: plantilla de WordPress para cualquier empresa
+# Plantillas de WordPress para el proyecto de empresa
+
+Este repositorio tiene **dos temas de WordPress** listos para instalar:
+
+| Tema | Para qué | Descargar |
+|---|---|---|
+| **Nexo Empresa** | Web corporativa genérica para cualquier empresa: servicios, precios, equipo, contacto… | [`dist/nexo-empresa.zip`](dist/nexo-empresa.zip) |
+| **Nexo Play** | Tienda de videojuegos con el estilo, los menús y la navegación de una gran plataforma digital | [`dist/nexo-play.zip`](dist/nexo-play.zip) |
+
+Los dos se instalan igual: **Apariencia › Temas › Añadir nuevo tema › Subir tema**, eliges el zip,
+**Instalar** y **Activar**. Después, en **Apariencia › … primeros pasos**, un botón crea todo el
+contenido de ejemplo.
+
+> Descarga el zip con el botón *Download raw file* de GitHub. No uses *Code › Download ZIP*:
+> ese descarga el repositorio entero y WordPress lo rechaza.
+
+---
+
+## Nexo Play: tienda de videojuegos
+
+![Portada de Nexo Play](nexo-play/screenshot.jpg)
+
+Imita la estructura de páginas, menús y navegación de una tienda digital de videojuegos
+(como la de Steam) con una marca propia: **no usa nombres, logotipos ni imágenes de ninguna
+plataforma real**. Las portadas de los 16 juegos de ejemplo son ficticias y están hechas con
+fotos libres de Unsplash.
+
+**Qué incluye**
+
+- **Cabecera doble**: logotipo con menú *Tienda · Comunidad · Acerca de · Soporte*, botón verde
+  «Instalar», acceso de usuario, y debajo la barra de la tienda con desplegables *Explorar*,
+  *Categorías* (menú grande con todos los géneros), *Formas de jugar* y *Noticias*, más el buscador.
+- **Portada de la tienda**: banner, carrusel «Destacados y recomendados» (las capturas se ven en
+  grande al pasar el ratón), «Descuentos y eventos», banner de descubrimientos, dos géneros
+  destacados, pestañas *Novedades / Lo más vendido / Próximos / Ofertas / Gratuitos* con vista
+  previa, «Explorar por categoría» y «A menos de 10 €».
+- **Ficha de cada juego**: migas de pan, galería de capturas, portada, reseñas, fecha,
+  desarrollador, etiquetas, caja de compra con descuento y botón verde «Añadir al carro»,
+  formas de jugar, requisitos del sistema y «Más como este».
+- **Buscador**: resultados en filas con filtros de precio, ofertas, géneros y formas de jugar,
+  y orden por relevancia, fecha, nombre o precio.
+- **Páginas**: Comunidad, Acerca de (con cifras de jugadores), Soporte (temas de ayuda y
+  preguntas frecuentes) y Noticias.
+
+**Cómo se edita**
+
+- **Juegos**: menú **Juegos › Añadir juego**. Escribe título y descripción, pon la *Imagen
+  destacada* (portada horizontal, 1232 × 706 px) y rellena el panel lateral **Datos del juego**:
+  precio, descuento, etiqueta de oferta, fecha (si es futura sale como «Próximamente»),
+  desarrollador, valoración, plataformas, capturas, portada vertical, requisitos y el enlace
+  del botón de compra. Los géneros, etiquetas y formas de jugar están en el mismo panel.
+  La tienda entera se actualiza sola.
+- **Portada y páginas**: **Páginas › Tienda**. Cada sección es un bloque de la categoría
+  **«Nexo Play · Tienda»** (botón **+**). Selecciónalo y en la barra lateral cambias el título,
+  cuántos juegos salen, de qué género, el precio máximo…
+- **Menús, cabecera y pie**: **Apariencia › Editor › Patrones › Partes de la plantilla**.
+- **Colores**: **Apariencia › Editor › Estilos**.
+- **Botón «Añadir al carro»**: enlaza a lo que pongas en el campo *Enlace* de cada juego
+  (tu tienda, WooCommerce, una plataforma externa…). Si lo dejas vacío, lleva a Soporte.
+
+**Bloques propios** (10): Destacados y recomendados · Descuentos y eventos · Estantería de juegos
+(carrusel o panel, por popularidad, novedades, ofertas, próximos, gratuitos, género o precio) ·
+Pestañas de la tienda · Explorar por categoría · Buscador de juegos · Ficha: cabecera y galería ·
+Ficha: comprar · Ficha: detalles · Ficha: requisitos.
+
+---
+
+## Nexo Empresa: web corporativa para cualquier empresa
 
 Tema de WordPress **genérico, modular y profesional** para montar la web de una empresa sin programar.
 Está hecho como **tema de bloques** y todo se edita de forma visual (arrastrar, soltar, cambiar
@@ -7,7 +74,7 @@ tipo Elementor. **También es compatible con Elementor** si prefieres usarlo.
 
 ![Captura de la portada](nexo-empresa/screenshot.jpg)
 
-## Qué incluye
+### Qué incluye
 
 | | |
 |---|---|
@@ -21,7 +88,7 @@ tipo Elementor. **También es compatible con Elementor** si prefieres usarlo.
 | **Contenido de ejemplo** | Un botón crea todas las páginas, 3 entradas de blog con imagen y el menú. |
 | **Recursos gratuitos incluidos** | Fotos de Unsplash, tipografías Inter y Manrope (alojadas en el propio tema, sin Google Fonts) e iconos Lucide. Todo con licencia libre, también para uso comercial. |
 
-## Instalación (5 minutos)
+### Instalación (5 minutos)
 
 1. Descarga **[`dist/nexo-empresa.zip`](dist/nexo-empresa.zip)** (botón *Download raw file* en GitHub).
 2. En tu WordPress ve a **Apariencia › Temas › Añadir nuevo tema › Subir tema**, elige el zip y pulsa **Instalar ahora** y luego **Activar**.
@@ -34,13 +101,13 @@ tipo Elementor. **También es compatible con Elementor** si prefieres usarlo.
 > [WordPress Playground](https://playground.wordpress.net/) (sube el zip desde *Apariencia › Temas*)
 > o [LocalWP](https://localwp.com/) en tu ordenador.
 
-## Cómo se edita
+### Cómo se edita
 
-### Cambiar colores y tipografías (toda la web a la vez)
+#### Cambiar colores y tipografías (toda la web a la vez)
 **Apariencia › Editor › Estilos** (icono de medio círculo). Elige una de las combinaciones o
 toca cada color y tipografía. Como todas las secciones usan esa paleta, cambia la web entera.
 
-### Montar o cambiar una página
+#### Montar o cambiar una página
 1. Abre la página (**Páginas › Inicio**, por ejemplo).
 2. Pulsa el **+ azul** (arriba a la izquierda) › pestaña **Patrones** › categorías **«Nexo ·»**.
 3. Arrastra la sección que quieras. Haz clic en cualquier texto o imagen para cambiarlo.
@@ -51,15 +118,15 @@ toca cada color y tipografía. Como todas las secciones usan esa paleta, cambia 
 
 Al crear una **página nueva** aparece un selector con las 5 páginas completas para empezar desde una.
 
-### Cabecera, pie y logotipo
+#### Cabecera, pie y logotipo
 **Apariencia › Editor › Patrones › Partes de la plantilla**. En la cabecera sube tu logo con el
 bloque *Logo del sitio*. Puedes cambiar la cabecera por otra versión (centrada o con barra de
 contacto) desde el panel de la derecha › **Diseño**.
 
-### Menú
+#### Menú
 En la cabecera, selecciona el bloque **Navegación** y añade, quita o reordena enlaces.
 
-### Plantillas de página
+#### Plantillas de página
 En la barra derecha de cada página, apartado **Plantilla**:
 
 | Plantilla | Para qué |
@@ -69,7 +136,7 @@ En la barra derecha de cada página, apartado **Plantilla**:
 | **Ancho completo (Elementor y maquetadores)** | Conserva la cabecera y el pie del tema y deja todo el ancho al maquetador. |
 | **Lienzo en blanco** | Sin cabecera ni pie: landing pages. |
 
-## Usarlo con Elementor
+### Usarlo con Elementor
 
 1. Instala **Elementor** (gratis) desde **Plugins › Añadir nuevo**.
 2. En la página que quieras, elige la plantilla **Ancho completo (Elementor y maquetadores)**
@@ -80,7 +147,7 @@ En la barra derecha de cada página, apartado **Plantilla**:
 
 Puedes mezclar: unas páginas con el editor de bloques y otras con Elementor.
 
-## Formulario de contacto
+### Formulario de contacto
 
 La sección *Contacto* usa el shortcode `[nexo_contacto]`. Los mensajes llegan al correo de
 **Ajustes › Generales › Dirección de correo electrónico de administración**. Para enviarlos a otro:
@@ -93,7 +160,7 @@ Muchos hostings no envían bien correos desde WordPress: si no te llegan, instal
 gratuito **WP Mail SMTP**. Si prefieres otro formulario (Contact Form 7, WPForms, el de
 Elementor Pro…), sustituye el bloque *Shortcode* por el suyo.
 
-## Personalizar para tu empresa (lista rápida)
+### Personalizar para tu empresa (lista rápida)
 
 - [ ] Nombre y lema en *Ajustes › Generales*.
 - [ ] Logotipo e icono del sitio en la cabecera.
@@ -105,7 +172,7 @@ Elementor Pro…), sustituye el bloque *Shortcode* por el suyo.
 - [ ] Páginas legales: aviso legal, privacidad y cookies (enlazadas en el pie).
 - [ ] Logotipos de clientes y testimonios: son ficticios, cámbialos o borra la sección.
 
-## Estructura del tema
+### Estructura del tema
 
 ```
 nexo-empresa/
@@ -122,9 +189,9 @@ nexo-empresa/
 └── assets/                 CSS, JS, fuentes, imágenes y licencias
 ```
 
-## Volver a generar el zip
+## Volver a generar los zip
 
-Si cambias archivos del tema, desde la raíz del repositorio:
+Si cambias archivos de un tema, desde la raíz del repositorio:
 
 ```bash
 ./crear-zip.sh
@@ -132,13 +199,17 @@ Si cambias archivos del tema, desde la raíz del repositorio:
 
 ## Requisitos
 
-WordPress 6.6 o superior (probado en 7.1) y PHP 7.4 o superior.
+Los dos temas: WordPress 6.6 o superior (probados en 7.1) y PHP 7.4 o superior.
 
 ## Licencias y créditos
 
-El tema se distribuye bajo **GPL v2 o posterior**. Recursos de terceros:
+Los temas se distribuyen bajo **GPL v2 o posterior**. Los autores de cada foto y las licencias
+completas están en el `readme.txt` de cada tema. Recursos de terceros:
 
 - Fotografías de [Unsplash](https://unsplash.com/license) (uso libre, también comercial). Autores en `nexo-empresa/readme.txt`.
 - Tipografías [Inter](https://rsms.me/inter/) y [Manrope](https://github.com/sharanda/manrope): SIL Open Font License 1.1.
 - Iconos [Lucide](https://lucide.dev): licencia ISC.
 - Logotipos de clientes y avatares: creados para este tema (marcas ficticias).
+- Nexo Play: portadas y capturas de los 16 juegos ficticios creadas a partir de fotos de Unsplash
+  y tipografías de Google Fonts (SIL OFL). Nexo Play no está afiliado a ninguna plataforma de
+  videojuegos ni usa sus marcas.

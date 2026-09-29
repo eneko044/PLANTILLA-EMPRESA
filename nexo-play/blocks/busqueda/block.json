@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/busqueda",
+	"title": "Buscador de juegos",
+	"category": "nexo-play",
+	"icon": "search",
+	"description": "Listado de resultados con filtros de precio, género y formas de jugar.",
+	"textdomain": "nexo-play",
+	"attributes": {
+		"titulo": {
+			"type": "string",
+			"default": ""
+		},
+		"porPagina": {
+			"type": "number",
+			"default": 15
+		}
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php"
+}

@@ -1,0 +1,32 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "nexo-play/pestanas",
+	"title": "Pestañas de la tienda",
+	"category": "nexo-play",
+	"icon": "index-card",
+	"description": "Novedades, lo más vendido, próximos, ofertas y gratuitos con vista previa al pasar el ratón.",
+	"textdomain": "nexo-play",
+	"attributes": {
+		"cantidad": {
+			"type": "number",
+			"default": 10
+		}
+	},
+	"supports": {
+		"html": false,
+		"anchor": true,
+		"align": [
+			"wide",
+			"full"
+		],
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			]
+		}
+	},
+	"editorScript": "np-bloques-editor",
+	"render": "file:./render.php"
+}
